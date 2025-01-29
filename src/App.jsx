@@ -3,7 +3,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-import { About } from "./pages/about";
+import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
 import { Error } from "./pages/Error";
 import { Footer } from "./components/Footer";
