@@ -239,7 +239,7 @@ export const Home = () => {
         </section>
         <Services />
         <PricingAll/>
-        <Contact />
+        <Contact/>
       </main>
     </>
   );

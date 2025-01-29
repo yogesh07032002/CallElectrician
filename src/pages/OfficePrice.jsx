@@ -1,6 +1,4 @@
-// src/OfficeMaintenance.js
 
-import React from 'react';
 
 const officeMaintenancePackages = [
   {
@@ -70,9 +68,11 @@ const OfficeMaintenance = () => {
             ))}
           </ul>
           <div className="flex justify-center items-center ">
+          <a href="https://wa.me/917620162336" target="_blank">
             <button className="bg-green-500 font-bold  rounded hover:bg-green-700 text-center p-3 m-3 w-full">
               Contact Now
             </button>
+            </a>
           </div>
         </section>
       ))}
@@ -94,9 +94,11 @@ const OfficeMaintenance = () => {
         To get a precise estimate for office maintenance in India, it is advisable to contact local service providers and get a customized quote based on the size of the office, services required, and frequency of visits. Many service providers also allow flexible terms, where you can opt for a package or a pay-per-service model.
       </p>
       <div className="flex justify-center items-center ">
+      <a href="https://wa.me/917620162336" target="_blank">
             <button className="bg-green-500 font-bold  rounded hover:bg-green-700 text-center p-3 m-3 w-full">
               Contact Now
             </button>
+        </a>
           </div>
     </div>
   );

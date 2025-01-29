@@ -63,9 +63,11 @@ const PriceMaintenance = () => {
               ))}
             </ul>
             <div className="flex justify-center items-center ">
+            <a href="https://wa.me/917620162336" target="_blank">
             <button className="bg-green-500 font-bold  rounded hover:bg-green-700 text-center p-3 m-3 w-full">
               Contact Now
             </button>
+            </a>
           </div>
           </div>
           
